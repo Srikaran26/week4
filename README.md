@@ -14,7 +14,6 @@ Welcome to the repository for Week 4 of our Java learning journey. This week foc
   - [Day 6: Working with Files using Streams](#day-6-working-with-files-using-streams)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
 
 ## Overview
 
